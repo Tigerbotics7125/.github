@@ -7,7 +7,7 @@
 [![X (formerly Twitter) Badge](https://img.shields.io/badge/-Follow%20%40Tigerbotics-0?logo=x&logoColor=red&labelColor=white&color=white)](https://twitter.com/tigerbotics)
 
 
-![TIGERBOTICS Building Bots, Engineering Futures](./Tigerbotics%20PC%20Sticker.png)
+![TIGERBOTICS Building Bots, Engineering Futures](https://raw.githubusercontent.com/Tigerbotics7125/.github/main/profile/Tigerbotics%20PC%20Sticker.png)
 
 
 ## Repositories of Interest
