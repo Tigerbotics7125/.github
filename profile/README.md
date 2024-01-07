@@ -20,9 +20,9 @@
 
 [2024 The Blue Alliance](https://www.thebluealliance.com/team/7125/2024)
 
-[2024 Robot Code](https://whatthecommit.com/)
+[2024 Robot Code](https://github.com/tigerbotics7125/frc2024)
 
-[2024 Open Alliance Build Thread](https://whatthecommit.com/)
+[2024 Open Alliance Build Thread](https://example.com/)
 
 ## 2023 - ***Killua***
 
